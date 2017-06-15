@@ -10,7 +10,7 @@
 #import "beta2+CoreDataModel.h"
 
 @interface DetailViewController : UIViewController
-
+//test
 @property (strong, nonatomic) Event *detailItem;
 @property (weak, nonatomic) IBOutlet UILabel *detailDescriptionLabel;
 
